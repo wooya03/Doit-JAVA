@@ -1,5 +1,4 @@
 package Chap02;
-
 public class VarEx1 {
     public static void main(String[] args) {
         int year = 0; // 변수타입 변수이름 = 변수 초기화;
