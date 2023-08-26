@@ -42,3 +42,7 @@
             -%e, %E : 지수 표현식의 형식으로 출력
             -%c : 문자로 출력
             -%s : 문자열 출력
+    2.4 화면에서 입력받기 - Scanner
+        -import java.util.*; // Scanner클래스를 사용하기 위해 추가
+        -Scanner scanner - new Scanner(System.in); // Scanner클래스의 객체를 생성
+        -nextInt(), nextLine(), nextFloat() 등의 메서드를 출력하여 입력 받음
